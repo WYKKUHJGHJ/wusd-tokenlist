@@ -1,0 +1,21 @@
+{
+  "name": "WUSD Token List",
+  "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/wusd-tokenlist/main/logo.png",
+  "keywords": ["wusd", "stablecoin", "worldusd"],
+  "timestamp": "2025-04-09T14:15:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xAA9564B56d2fBD9b5bc123a857617DAf6d8a4545",
+      "symbol": "WUSD",
+      "name": "World USD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/wusd-tokenlist/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
